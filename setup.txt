@@ -1,0 +1,16 @@
+Login credential:
+
+for admin: 
+email/username: robertgaton2017@gmail.com
+pass: 09203818558
+
+for employee:
+employee05@gmail.com
+123456789000
+
+Setup:
+Install
+1. VS Code
+2. Laragon
+
+3. Copy the project directory hr-payroll and paste it in www folder in C:\laragon\www
