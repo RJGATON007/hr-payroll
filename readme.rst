@@ -65,12 +65,14 @@ admin@gmail.com
 password:
 admin11
 
+- You might as well use Laragon instead of Xampp for local development. xampp may cause errors when running the mysql and apache
+- Laragon is better than xampp. xampp is trash!
+
+
 
 # CREDITS TO THE ORIGINAL OWNER OF THIS PROJECT:
-
 Url: http://www.fiverr.com/s2/0e44853c56
 **Or Contact email address:**
 nawjeshbd@gmail.com
-
 Thanks
 
