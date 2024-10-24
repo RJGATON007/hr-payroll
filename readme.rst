@@ -1,5 +1,5 @@
 ###################
-hr-payroll Human resource management system (HRM) 
+Human Resource Management System (HRMS) 
 ###################
 
 ###################
