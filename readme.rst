@@ -60,8 +60,10 @@ Authentication
 
 **admin**
 
-username:admin@gmail.com
-password:admin11
+username:
+admin@gmail.com
+password:
+admin11
 
 
 # CREDITS TO THE ORIGINAL OWNER OF THIS PROJECT:
