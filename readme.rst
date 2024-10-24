@@ -11,6 +11,7 @@ has become one of the most vital tools for any corporate environment. It’s ver
 ###################
 Features
 ###################
+* ADDED A CLIENT INFORMATION SHEET IN PROJECTS (FIXED SOME ERRORS AND UPDATED THE DATABASE)
 * **Bonus Loan Deduction** and provident fund management,
 * Estimate invoice and **biling system**,
 * **Employee management**,
@@ -58,28 +59,21 @@ Features
 Authentication
 ###################
 
-**super admin**
-
-username:nawjeshbd@gmail.com
-password:admin123456
-
 **admin**
 
-username:admin@gmail.com
-password:admin123456
+username:admin@gmail.co
+password:admin11
 
 **employee**
 
 username:employee@gmail.com
-password:admin123456
+password:employee11
 
 
-**I am available for PHP,Laravel,Codeigniter work, check out my Fiverr profile:**
+# CREDITS TO THE ORIGINAL OWNER OF THIS PROJECT:
 
 Url: http://www.fiverr.com/s2/0e44853c56
-
 **Or Contact email address:**
-
 nawjeshbd@gmail.com
 
 Thanks
