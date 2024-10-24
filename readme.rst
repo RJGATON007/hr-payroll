@@ -61,13 +61,8 @@ Authentication
 
 **admin**
 
-username:admin@gmail.co
+username:admin@gmail.com
 password:admin11
-
-**employee**
-
-username:employee@gmail.com
-password:employee11
 
 
 # CREDITS TO THE ORIGINAL OWNER OF THIS PROJECT:
