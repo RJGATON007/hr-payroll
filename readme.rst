@@ -5,8 +5,7 @@ Human Resource Management System (HRMS)
 ###################
 Summary
 ###################
-This application based on new **Latest CodeIgniter framework**. **Human Resource Management system(HRM)**
-has become one of the most vital tools for any corporate environment. It’s very convincement for any kind of businesses and helps to keep the HR department clean and clear. Modern HRM software is not just a fancy it’s now become an essential tool for maintaining every corporate culture. Any company can use it for their regular tasks, employee workforce management and account management.
+This HRM system leverages the latest CodeIgniter framework to provide a robust and scalable solution for managing human resources. It is designed to be user-friendly and efficient, making it an essential tool for any corporate environment. The application is well-structured, following the MVC (Model-View-Controller) pattern, ensuring maintainability and scalability.
 
 ###################
 Features
