@@ -66,7 +66,7 @@ password:
 admin11
 
 - You might as well use Laragon instead of Xampp for local development. xampp may cause errors when running the mysql and apache
-- Laragon is better than xampp. xampp is trash!
+- Laragon is better than xampp.
 
 
 
